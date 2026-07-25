@@ -1,0 +1,21 @@
+:root{
+  --main-color:#1c290d;
+  --light-main:#676f53;
+  --clear:#b3b49a;
+  --fill-content:#fefae0;
+  --contraste:#a19379;
+  --light-dif:#736046;
+  --dif-color:#381d03;
+}
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
